@@ -1,6 +1,6 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
     "extends": [
-        "local>devdavido/35311-renovate-reproduction-update-service:renovate-global-config#0.1.0"
+        "github>DevDavido/35311-renovate-reproduction-update-service:renovate-global-config#0.1.0"
     ]
 }
